@@ -135,55 +135,55 @@ N 120 370 120 380 {
 lab=#net3}
 N -120 110 -120 150 {
 lab=CK}
-C {xschem/symbols/OR1/primitives/pfet.sym} 0 -90 1 0 {name=M1 
+C {primitives/pfet.sym} 0 -90 1 0 {name=M1 
 model=pchor1ex
 W=4u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/nfet.sym} 0 90 3 0 {name=M2 
+C {primitives/nfet.sym} 0 90 3 0 {name=M2 
 model=nchor1ex
 W=2u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/pfet.sym} 120 170 1 0 {name=M3 
+C {primitives/pfet.sym} 120 170 1 0 {name=M3 
 model=pchor1ex
 W=4u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/nfet.sym} 120 350 3 0 {name=M4 
+C {primitives/nfet.sym} 120 350 3 0 {name=M4 
 model=nchor1ex
 W=2u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/pfet.sym} 140 -50 0 0 {name=M5 
+C {primitives/pfet.sym} 140 -50 0 0 {name=M5 
 model=pchor1ex
 W=4u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/nfet.sym} 140 50 0 0 {name=M6 
+C {primitives/nfet.sym} 140 50 0 0 {name=M6 
 model=nchor1ex
 W=2u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/pfet.sym} 280 -50 0 0 {name=M7 
+C {primitives/pfet.sym} 280 -50 0 0 {name=M7 
 model=pchor1ex
 W=4u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/nfet.sym} 280 50 0 0 {name=M8 
+C {primitives/nfet.sym} 280 50 0 0 {name=M8 
 model=nchor1ex
 W=2u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/pfet.sym} -250 170 0 0 {name=M9 
+C {primitives/pfet.sym} -250 170 0 0 {name=M9 
 model=pchor1ex
 W=4u
 L=1u
@@ -202,7 +202,7 @@ C {devices/iopin.sym} 0 -50 2 0 {name=p10 lab=VDD}
 C {devices/iopin.sym} 0 50 2 0 {name=p11 lab=VSS}
 C {devices/iopin.sym} 120 210 2 0 {name=p12 lab=VDD}
 C {devices/iopin.sym} 120 310 2 0 {name=p13 lab=VSS}
-C {xschem/symbols/OR1/primitives/nfet.sym} -250 270 0 0 {name=M10 
+C {primitives/nfet.sym} -250 270 0 0 {name=M10 
 model=nchor1ex
 W=2u
 L=1u
